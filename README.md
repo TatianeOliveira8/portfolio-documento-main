@@ -1,12 +1,33 @@
-<p align="justify">Meu nome é Tatiane Oliveira, tenho 19 anos e sou Desenvolvedora Full-Stack. Curso Desenvolvimento de Sistemas Multiplataforma na FATEC e atuo na criação de soluções tecnológicas que resolvem problemas reais.</p>
+<img align="right" src="assets/fotoperfil.jpeg" alt="Foto de perfil" width="350" />
+
+<p>
+Meu nome é Tatiane Oliveira, tenho 19 anos e sou Desenvolvedora Full-Stack. Curso Desenvolvimento de Sistemas Multiplataforma na FATEC e atuo na criação de soluções tecnológicas que resolvem problemas reais.
+</p>
 
 **Sobre mim**
 
-<p align="justify">Estudo programação desde 2024, quando descobri minha paixão pela tecnologia. Desde então, venho aprimorando minhas hard e soft skills por meio de projetos práticos em parceria com empresas e startups através da FATEC, adquirindo experiência real no desenvolvimento de soluções de software para o mercado de trabalho.</p>
+<p>
+Estudo programação desde 2024, quando descobri minha paixão pela tecnologia. Desde então, venho aprimorando minhas hard e soft skills por meio de projetos práticos em parceria com empresas e startups através da FATEC, adquirindo experiência real no desenvolvimento de soluções de software para o mercado de trabalho.
+</p>
 
-<p align="justify">Atualmente, faço estágio na HABIT como Desenvolvedora Full-Stack, criando soluções de automação que aprimoram processos internos. Estou sempre em busca de aprendizado contínuo, novas oportunidades e desafios que me permitam crescer na área da tecnologia.</p>
+<p>
+Atualmente, faço estágio na HABIT como Desenvolvedora Full-Stack, criando soluções de automação que aprimoram processos internos. Estou sempre em busca de aprendizado contínuo, novas oportunidades e desafios que me permitam crescer na área da tecnologia.
+</p>
+
+### 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/tatiane-oliveira-332155377/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tatioliveira1415@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
+
+
 
 ### 📋 Gerenciamento de Tarefas – 3° Semestre 2025.2
 
