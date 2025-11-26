@@ -1,4 +1,4 @@
-<img align="right" src="assets/fotoperfil.jpeg" alt="Foto de perfil" width="350" />
+<img align="right" src="assets/perfilfoto.jpeg" alt="Foto de perfil" width="350" />
 
 <p>
 Meu nome é Tatiane Oliveira, tenho 19 anos e sou Desenvolvedora Full-Stack. Curso Desenvolvimento de Sistemas Multiplataforma na FATEC e atuo na criação de soluções tecnológicas que resolvem problemas reais.
