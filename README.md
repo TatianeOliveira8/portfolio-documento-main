@@ -1,18 +1,19 @@
 <img align="right" src="assets/fotoPerfil.png" alt="Foto de perfil" width="250" />
 
-<p>
-Meu nome é Tatiane Oliveira, tenho 19 anos e sou Desenvolvedora Full-Stack. Curso Desenvolvimento de Sistemas Multiplataforma na FATEC e atuo na criação de soluções tecnológicas que resolvem problemas reais.
+<p align="justify">
+  Meu nome é Tatiane Oliveira, tenho 19 anos e sou Desenvolvedora Full-Stack. Curso Desenvolvimento de Sistemas Multiplataforma na FATEC e atuo na criação de soluções tecnológicas que resolvem problemas reais.
 </p>
 
-**Sobre mim**
+<strong>Sobre mim</strong>
 
-<p>
-Estudo programação desde 2024, quando descobri minha paixão pela tecnologia. Desde então, venho aprimorando minhas hard e soft skills por meio de projetos práticos em parceria com empresas e startups através da FATEC, adquirindo experiência real no desenvolvimento de soluções de software para o mercado de trabalho.
+<p align="justify">
+  Estudo programação desde 2024, quando descobri minha paixão pela tecnologia. Desde então, venho aprimorando minhas hard e soft skills por meio de projetos práticos em parceria com empresas e startups através da FATEC, adquirindo experiência real no desenvolvimento de soluções de software para o mercado de trabalho.
 </p>
 
-<p>
-Atualmente, faço estágio na HABIT como Desenvolvedora Full-Stack, criando soluções de automação que aprimoram processos internos. Estou sempre em busca de aprendizado contínuo, novas oportunidades e desafios que me permitam crescer na área da tecnologia.
+<p align="justify">
+  Atualmente, faço estágio na HABIT como Desenvolvedora Full-Stack, criando soluções de automação que aprimoram processos internos. Estou sempre em busca de aprendizado contínuo, novas oportunidades e desafios que me permitam crescer na área da tecnologia.
 </p>
+
 
 ### 📫 Contato
 
@@ -26,7 +27,6 @@ Atualmente, faço estágio na HABIT como Desenvolvedora Full-Stack, criando solu
 </p>
 
 ---
-
 
 
 ### 📋 Gerenciamento de Tarefas – 3° Semestre 2025.2
