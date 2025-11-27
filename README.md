@@ -31,7 +31,7 @@
 ---
 
 
-### 📋 Gerenciamento de Tarefas – 3° Semestre 2025.2
+### 📋 [Gerenciamento de Tarefas – 3° Semestre 2025.2](https://github.com/Syntax-Fatec-SJC/SideQuest)
 
 O projeto foi proposto pela GSW, que enfrentava problemas no controle de tarefas, comunicação falha, atividades perdidas e atrasos nas entregas. Desenvolvemos um gerenciador de tarefas, uma plataforma web que centraliza equipes, projetos e atividades, permite colaboração em tempo real, oferece quadros Kanban, métricas em dashboard e integração com Google Calendar, facilitando a organização, acompanhamento e comunicação entre os times.
 
@@ -83,7 +83,7 @@ O projeto foi proposto pela GSW, que enfrentava problemas no controle de tarefas
 ---
 
 
-### 📊 Dashboard de Impacto – 2° Semestre 2025.1
+### 📊 [Dashboard de Impacto – 2° Semestre 2025.1](https://github.com/the-devs-department/HELPNEI-2025.1-2Sem)
 
 O projeto foi proposto pela Helpnei, que não possuía nenhuma ferramenta para visualizar o impacto e os resultados das empresas parceiras dentro da plataforma, contando apenas com uma página inicial sem métricas. Desenvolvemos um Dashboard de Indicadores para monitorar o crescimento das empresas cadastradas, exibir dados estratégicos para patrocinadores e investidores e incluir um sistema de captação de usuários interessados em patrocínio.
 
@@ -130,7 +130,7 @@ O projeto foi proposto pela Helpnei, que não possuía nenhuma ferramenta para v
 ---
 
 
-### 🏛️ Plataforma de Transparência Legislativa - 1° Semestre 2024.2 
+### 🏛️ [Plataforma de Transparência Legislativa – 1° Semestre 2024.2](https://github.com/TatianeOliveira8/plataforma-legislativa)
 
 O projeto foi proposto pelo professor Fernando Masanori. Os moradores de São José dos Campos tinham dificuldade em acessar informações claras sobre a atuação dos vereadores, pois os dados estavam dispersos. Criamos uma plataforma web que centraliza e apresenta essas informações de forma acessível, permitindo que os eleitores tomem decisões mais informadas nas eleições municipais.
 
